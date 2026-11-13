@@ -1,0 +1,4 @@
+# 비밀 키 — 절대 커밋하지 않는다
+.env
+.env.local
+.env.*.local
